@@ -19,3 +19,7 @@
     color: #34495e;
     margin-top: 45px;
 }
+.favorite{
+    padding-top: 10px;
+}
+.modal{ display:block; }
